@@ -1,1 +1,3 @@
 Este programa en C lee una matriz cuadrada binaria (con coeficientes de 0s y 1s) desde un archivo de texto plano y encuentra la secuencia de 1s más larga en sus diagonales. El programa analiza las diagonales en dirección de derecha a izquierda, desde la esquina inferior derecha hacia la esquina superior izquierda. Se utiliza el compilador GCC (GNU Compiler Collection) para generar un ejecutable (gcc T1_C34587.c -o t1). Al ejecutar el programa, este pedirá el nombre del archivo de texto plano del cual se extrae la matriz y, seguidamente, imprimirá la matriz del archivo junto con la secuencia más larga de 1s. 
+
+![Ejemplos de salidas del programa](https://github.com/andrxsmz/Tarea1-IE0117/raw/86dce8dadd28833d630973eba2500ec20592ad6e/T1_C34587.png)
